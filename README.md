@@ -5,7 +5,7 @@
 ## 📌 Overview
 An interactive automobile sales dashboard that provides a deep dive into sales performance across regions, fuel,type, colours and models.
 
-**view live project:** [view live project](https://novyproo-my.sharepoint.com/:u:/g/personal/koredeenock23_novypro_com/IQCa1QZB5r6-TrqvY-D8m7efAUsTCCTdzE7ioAcizZS3U34?e=DjtEIY)
+**View live project:** [View Dashboard](https://novyproo-my.sharepoint.com/:u:/g/personal/koredeenock23_novypro_com/IQCa1QZB5r6-TrqvY-D8m7efAUsTCCTdzE7ioAcizZS3U34?e=DjtEIY)
 
 ## ✨ Features
 - Microsoft Excel for data cleaning 
