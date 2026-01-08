@@ -33,7 +33,7 @@ Auto-mobile sales reports
 
 ## 📸 Screenshots (Optional)
 
-Add screenshots or GIFs if applicable.
+![Screenshot ](automobile.PNG).
 
 ## 🤝 Contributing
 
