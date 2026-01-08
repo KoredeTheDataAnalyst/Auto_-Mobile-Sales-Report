@@ -1,130 +1,53 @@
+# Auto_Mobile_ Sales Reports
 
-````md
-# Auto_Mobile Sales Reports
+> This project was designed to helps stakeholder monitor key metrics, identify market trends , and make data-driven decisions in the automotive sector.
 
-This project was carried out to help stakeholders monitor key metrics, identify market trends, and make data_driven decisions in the automotive sector.
+## 📌 Overview
+An interactive automobile sales dashboard that provides a deep dive into sales performance across regions, fuel,type, colours and models.
 
-## Features
-- Power quary
-- PowerBI
+## ✨ Features
+- Microsoft Excel for data cleaning 
+- modern deep charcoal theme(#121212) for better readability
+- Custome fuel-type colour coding
+- Visual include: sales by region, fuel type distribution, model classification, mileage overview
+  
 
-## Installation
-```bash
-git clone https://github.com/username/project-name.git
-cd project-name
-````
-
-## Usage
-
-```bash
-python main.py
-```
-
-## Configuration
-
-Explain environment variables or config files.
-
-## Contributing
-
-Pull requests are welcome. For major changes, open an issue first.
-
-## License
-
-MIT
+## 🛠️ Tech Stack
+- Language: ( Python,Excel,and PowerBI)
+- Framework: (Flask)
 
 ````
 
----
+## 🚀 Installation
 
-## 3. .gitignore
-
-Examples:
-- **Python**
-```gitignore
-__pycache__/
-.env
-venv/
-*.pyc
+```bash
+https://github.com/KoredeTheDataAnalyst/Auto_-Mobile-Sales-Report/edit/main/README.md
+Auto-mobile sales reports
 ````
 
-* **Node.js**
-
-```gitignore
-node_modules/
-.env
-dist/
-```
-
-Use a template from: [https://github.com/github/gitignore](https://github.com/github/gitignore)
-
----
-
-## 4. LICENSE
-
-Common choices:
-
-* **MIT** (most permissive)
-* **Apache 2.0**
-* **GPL v3**
-
-Add one using:
+## ▶️ Usage
 
 ```bash
-git license
+
 ```
 
-or directly from GitHub when creating the repo.
+## 📸 Screenshots (Optional)
 
----
+Add screenshots or GIFs if applicable.
 
-## 5. Dependency File
+## 🤝 Contributing
 
-Depends on language:
+Contributions are welcome!
 
-* Python → `requirements.txt` or `pyproject.toml`
-* Node.js → `package.json`
-* Java → `pom.xml`
-* Go → `go.mod`
+## 📄 License
 
----
+This project is licensed under the MIT License.
 
-## 6. Commit Message Format (Recommended)
+## 👤 Author
 
-```text
-feat: add user authentication
-fix: resolve login bug
-docs: update README
-refactor: simplify database logic
+* Name
+* GitHub: [@username](https://github.com/username)
+
 ```
 
 ---
-
-## 7. First Upload Steps
-
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/username/project-name.git
-git push -u origin main
-```
-
----
-
-## 8. Optional but Professional
-
-* `CONTRIBUTING.md`
-* `CODE_OF_CONDUCT.md`
-* GitHub Actions (`.github/workflows/ci.yml`)
-* Badges in README (build, license, version)
-
----
-
-If you want, tell me:
-
-* **Programming language**
-* **Type of project** (web app, ML, library, mobile, etc.)
-
-and I’ll give you a **custom GitHub-ready template**.
-# Auto_-Mobile-Sales-Report
