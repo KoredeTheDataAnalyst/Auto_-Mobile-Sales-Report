@@ -47,8 +47,7 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-* Name
-* GitHub: [@username](https://github.com/username)
+* Korede Olabode
 
 ```
 
